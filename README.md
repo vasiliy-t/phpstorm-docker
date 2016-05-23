@@ -2,8 +2,6 @@
 
 ### Usage
 
-There is newer version of phpstorm to be available soon.
-
 ```bash
 docker run -v /etc/passwd:/etc/passwd \
            -v /etc/group:/etc/group \
